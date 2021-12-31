@@ -1,8 +1,5 @@
 # Lite XL
 
-[![CI]](https://github.com/lite-xl/lite-xl/actions/workflows/build.yml)
-[![Discord Badge Image]](https://discord.gg/RWzqC3nx7K)
-
 ![screenshot-dark]
 
 A lightweight text editor written in Lua, adapted from [lite]. This version runs on OSX Leopard PPC.
