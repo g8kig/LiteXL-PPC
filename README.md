@@ -5,7 +5,7 @@
 
 ![screenshot-dark]
 
-A lightweight text editor written in Lua, adapted from [lite].
+A lightweight text editor written in Lua, adapted from [lite]. This version runs on OSX Leopard PPC.
 
 * **[Get Lite XL]** — Download for Windows, Linux and Mac OS.
 * **[Get plugins]** — Add additional functionality, adapted for Lite XL.
