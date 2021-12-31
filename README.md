@@ -50,7 +50,7 @@ bash macbuild.sh
 ```
 
 The script will build 'LiteXL.app'. It requires the patched version of SDL2.0.6 from here https://github.com/alex-free/leopard_sdl2.0.6
-to be built and tigerbrew 'gcc 6' and 'pcre2' to be built and installed.
+to be built and tigerbrew 'gcc 6', 'freetype2' and 'pcre2' to be built and installed.
 
 
 ## Contributing
@@ -67,18 +67,5 @@ the terms of the MIT license. See [LICENSE] for details.
 
 See the [licenses] file for details on licenses used by the required dependencies.
 
-
-[CI]:                         https://github.com/lite-xl/lite-xl/actions/workflows/build.yml/badge.svg
-[Discord Badge Image]:        https://img.shields.io/discord/847122429742809208?label=discord&logo=discord
-[screenshot-dark]:            https://user-images.githubusercontent.com/433545/111063905-66943980-84b1-11eb-9040-3876f1133b20.png
-[lite]:                       https://github.com/rxi/lite
-[website]:                    https://lite-xl.com
-[build]:                      https://lite-xl.com/en/documentation/build/
-[Get Lite XL]:                https://github.com/lite-xl/lite-xl/releases/latest
-[Get plugins]:                https://github.com/lite-xl/lite-xl-plugins
-[Get color themes]:           https://github.com/lite-xl/lite-xl-colors
-[changelog]:                  https://github.com/lite-xl/lite-xl/blob/master/changelog.md
-[Lite XL plugins repository]: https://github.com/lite-xl/lite-xl-plugins
-[colors repository]:          https://github.com/lite-xl/lite-xl-colors
 [LICENSE]:                    LICENSE
 [licenses]:                   licenses/licenses.md
